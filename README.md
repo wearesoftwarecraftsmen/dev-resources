@@ -1,4 +1,14 @@
 # Useful tools for developers:
 
-### // To be changed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Quick Links:
+<a href="regex">Regular Expressions</a>
+<a hidden="true" href="#regex"></a>
+
+
+
+
+
+- Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java. Features a regex quiz & library.
+
+    <a href="https://regex101.com/">Regex101.com</a>
+    ![alt text](regex101.png "Regex101")
